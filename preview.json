@@ -1,0 +1,25 @@
+{
+    "name": "TeddySwap Cardano Token List",
+    "timestamp": "2023-10-22T17:28:35.322Z",
+    "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+    },
+    "tags": {},
+    "keywords": [
+        "teddy swap",
+        "tokens",
+        "cardano tokens"
+    ],
+    "tokens": [
+        {
+            "policyId": "7c833f1eb9b70c2e700d028e0ee28d421edad2af4222061be525382d",
+            "subject": "7c833f1eb9b70c2e700d028e0ee28d421edad2af4222061be525382d55534443",
+            "decimals": 6,
+            "ticker": "USDC",
+            "description": "USDC",
+            "name": "USDC"
+        }
+    ]
+}
