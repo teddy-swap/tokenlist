@@ -28,6 +28,14 @@
             "ticker": "iUSD",
             "description": "iUSD",
             "name": "iUSD"
+        },
+        {
+            "policyId": "7c833f1eb9b70c2e700d028e0ee28d421edad2af4222061be525382d",
+            "subject": "7c833f1eb9b70c2e700d028e0ee28d421edad2af4222061be525382d54454459",
+            "decimals": 6,
+            "ticker": "TEDY",
+            "description": "TEDY",
+            "name": "TEDY"
         }
     ]
 }
