@@ -19,6 +19,14 @@
             "ticker": "tTEDY",
             "description": "⚠️ Mainnet Test TEDY Token do not buy/swap! ⚠️",
             "name": "tTEDY"
+        },
+        {
+            "policyId": "f6696363e9196289ef4f2b4bf34bc8acca5352cdc7509647afe6888f",
+            "subject": "f6696363e9196289ef4f2b4bf34bc8acca5352cdc7509647afe6888f54454459",
+            "decimals": 6,
+            "ticker": "TEDY",
+            "description": "TEDY is the utility token for TeddySwap. https://teddyswap.org/",
+            "name": "TeddySwap"
         }
     ]
 }
