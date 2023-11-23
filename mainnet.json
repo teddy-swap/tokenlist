@@ -1,0 +1,24 @@
+{
+    "name": "TeddySwap Cardano Token List",
+    "version": {
+        "major": 0,
+        "minor": 1,
+        "patch": 0
+    },
+    "tags": {},
+    "keywords": [
+        "teddy swap",
+        "tokens",
+        "cardano tokens"
+    ],
+    "tokens": [
+        {
+            "policyId": "d26de68106ec5905de8d9771ae3ee6c3236caee843bfc156af35a343",
+            "subject": "d26de68106ec5905de8d9771ae3ee6c3236caee843bfc156af35a3437454454459",
+            "decimals": 6,
+            "ticker": "tTEDY",
+            "description": "⚠️ Mainnet Test TEDY Token do not buy/swap! ⚠️",
+            "name": "tTEDY"
+        }
+    ]
+}
