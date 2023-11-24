@@ -27,6 +27,14 @@
             "ticker": "TEDY",
             "description": "TEDY is the utility token for TeddySwap. https://teddyswap.org/",
             "name": "TeddySwap"
+        },
+        {
+            "policyId": "75fcc276057db5fc48eae0e11453c773c8a54604c3086bf9d95ac1b7",
+            "subject": "75fcc276057db5fc48eae0e11453c773c8a54604c3086bf9d95ac1b743485259",
+            "decimals": 6,
+            "ticker": "CHRY",
+            "description": "CherryLend is an open-source and non-custodial lending protocol on Cardano. https://cherrylend.org",
+            "name": "CherryLend"
         }
     ]
 }
