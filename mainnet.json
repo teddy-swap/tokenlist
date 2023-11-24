@@ -43,6 +43,14 @@
             "ticker": "cNETA",
             "description": "AnetaBTC is a fully on-chain, decentralized protocol that allows Bitcoin to be directly wrapped on the Ergo and Cardano blockchains. This token serves as a Cardano governance token for anetaBTC. https://www.anetabtc.io",
             "name": "anetaBTC"
+        },
+        {
+            "policyId": "4190b2941d9be04acc69c39739bd5acc66d60ccab480d8e20bc87e37",
+            "subject": "4190b2941d9be04acc69c39739bd5acc66d60ccab480d8e20bc87e3763425443",
+            "decimals": 8,
+            "ticker": "cBTC",
+            "description": "cBTC Wrapped Bitcoin on Cardano https://anetabtc.io",
+            "name": "cBTC"
         }
     ]
 }
