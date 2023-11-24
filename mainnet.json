@@ -51,6 +51,14 @@
             "ticker": "cBTC",
             "description": "cBTC Wrapped Bitcoin on Cardano https://anetabtc.io",
             "name": "cBTC"
+        },
+        {
+            "policyId": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f",
+            "subject": "279c909f348e533da5808898f87f9a14bb2c3dfbbacccd631d927a3f534e454b",
+            "decimals": 0,
+            "ticker": "SNEK",
+            "description": "Snek The chillest meme coin on Cardano - In Snek We Trust",
+            "name": "SNEK"
         }
     ]
 }
