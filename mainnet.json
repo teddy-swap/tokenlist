@@ -59,6 +59,14 @@
             "ticker": "SNEK",
             "description": "Snek The chillest meme coin on Cardano - In Snek We Trust",
             "name": "SNEK"
+        },
+        {
+            "policyId": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b69880",
+            "subject": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069555344",
+            "decimals": 6,
+            "ticker": "iUSD",
+            "description": "iUSD Decentralized and overcollateralized Cardano native stablecoin powered by Indigo synthetics https://indigoprotocol.io",
+            "name": "iUSD"
         }
     ]
 }
