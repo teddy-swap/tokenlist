@@ -91,6 +91,14 @@
             "ticker": "CD",
             "description": "Cardano Gold Doctrinal Gold",
             "name": "Cardano Gold"
+        },
+        {
+            "policyId": "4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac",
+            "subject": "4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac427562626c65",
+            "decimals": 6,
+            "ticker": "BUBBLE",
+            "description": "Bubble The Ultimate Bubble",
+            "name": "BUBBLE"
         }
     ]
 }
