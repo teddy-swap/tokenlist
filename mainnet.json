@@ -99,6 +99,14 @@
             "ticker": "BUBBLE",
             "description": "Bubble The Ultimate Bubble",
             "name": "BUBBLE"
+        },
+        {
+            "policyId": "89267e9a35153a419e1b8ffa23e511ac39ea4e3b00452e9d500f2982",
+            "subject": "89267e9a35153a419e1b8ffa23e511ac39ea4e3b00452e9d500f2982436176616c6965724b696e67436861726c6573",
+            "decimals": 0,
+            "ticker": "CHARLY",
+            "description": "Cavalier King Charles token Charly token is a royal coin on Cardano blockchain to honour Charles Hoskinson. Charly is a growing royal community through helping each other. https://www.charly-token.io/",
+            "name": "CavalierKingCharles"
         }
     ]
 }
