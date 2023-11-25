@@ -83,6 +83,14 @@
             "ticker": "ENCS",
             "description": "ENCOINS utility token The utility token of the ENCOINS protocol. Also used for governance of the ENCOINS DAO. https://encoins.io",
             "name": "ENCOINS"
+        },
+        {
+            "policyId": "fed1c459a47cbff56bd7d29c2dde0de3e9bd15cee02b98622fce82f7",
+            "subject": "fed1c459a47cbff56bd7d29c2dde0de3e9bd15cee02b98622fce82f743617264616e6f476f6c64",
+            "decimals": 6,
+            "ticker": "CD",
+            "description": "Cardano Gold Doctrinal Gold",
+            "name": "Cardano Gold"
         }
     ]
 }
