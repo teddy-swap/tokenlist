@@ -85,30 +85,6 @@
             "name": "ENCOINS"
         },
         {
-            "policyId": "fed1c459a47cbff56bd7d29c2dde0de3e9bd15cee02b98622fce82f7",
-            "subject": "fed1c459a47cbff56bd7d29c2dde0de3e9bd15cee02b98622fce82f743617264616e6f476f6c64",
-            "decimals": 6,
-            "ticker": "CD",
-            "description": "Cardano Gold Doctrinal Gold",
-            "name": "Cardano Gold"
-        },
-        {
-            "policyId": "4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac",
-            "subject": "4fde92c2f6dbcfa2879b44f7453872b31394cfb2f70f1d4c411169ac427562626c65",
-            "decimals": 6,
-            "ticker": "BUBBLE",
-            "description": "Bubble The Ultimate Bubble",
-            "name": "BUBBLE"
-        },
-        {
-            "policyId": "89267e9a35153a419e1b8ffa23e511ac39ea4e3b00452e9d500f2982",
-            "subject": "89267e9a35153a419e1b8ffa23e511ac39ea4e3b00452e9d500f2982436176616c6965724b696e67436861726c6573",
-            "decimals": 0,
-            "ticker": "CHARLY",
-            "description": "Cavalier King Charles token Charly token is a royal coin on Cardano blockchain to honour Charles Hoskinson. Charly is a growing royal community through helping each other. https://www.charly-token.io/",
-            "name": "CavalierKingCharles"
-        },
-        {
             "policyId": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f69587",
             "subject": "8fef2d34078659493ce161a6c7fba4b56afefa8535296a5743f6958741414441",
             "decimals": 6,
