@@ -115,6 +115,14 @@
             "ticker": "CHARLY",
             "description": "Cavalier King Charles token Charly token is a royal coin on Cardano blockchain to honour Charles Hoskinson. Charly is a growing royal community through helping each other. https://www.charly-token.io/",
             "name": "CavalierKingCharles"
+        },
+        {
+            "policyId": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61",
+            "subject": "8db269c3ec630e06ae29f74bc39edd1f87c819f1056206e879a1cd61446a65644d6963726f555344",
+            "decimals": 6,
+            "ticker": "DJED",
+            "description": "Djed USD DJED is an over-collateralized Stablecoin backed by ADA. https://djed.xyz",
+            "name": "DJED USD"
         }
     ]
 }
