@@ -131,6 +131,14 @@
             "ticker": "FACT",
             "description": "Orcfax Token FACT is the utility token of Orcfax, a decentralized oracle service that publishes data about real world events to the Cardano blockchain. https://orcfax.io/",
             "name": "Orcfax Token"
+        },
+        {
+            "policyId": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235",
+            "subject": "a0028f350aaabe0545fdcb56b039bfb08e4bb4d8c4d7c3c7d481c235484f534b59",
+            "decimals": 0,
+            "ticker": "HOSKY",
+            "description": "The PREMIERE low-quality s**t coin doggo meme token, exclusively on the Cardano Ecosystem. We are THE s**t, we are NOT s**t.",
+            "name": "HOSKY Token"
         }
     ]
 }
