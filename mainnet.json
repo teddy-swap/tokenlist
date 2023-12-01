@@ -147,6 +147,14 @@
             "ticker": "INDY",
             "description": "Indigo DAO Token Indigo is an decentralized synthetics protocol for on-chain price exposure to real-world and digital assets https://indigoprotocol.io",
             "name": "Indigo DAO Token"
+        },
+        {
+            "policyId": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b69880",
+            "subject": "f66d78b4a3cb3d37afa0ec36461e51ecbde00f26c8f0a68f94b6988069455448",
+            "decimals": 6,
+            "ticker": "iETH",
+            "description": "iETH Cardano native token that tracks the price of Ethereum https://indigoprotocol.io",
+            "name": "iETH"
         }
     ]
 }
