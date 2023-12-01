@@ -139,6 +139,14 @@
             "ticker": "HOSKY",
             "description": "The PREMIERE low-quality s**t coin doggo meme token, exclusively on the Cardano Ecosystem. We are THE s**t, we are NOT s**t.",
             "name": "HOSKY Token"
+        },
+        {
+            "policyId": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0",
+            "subject": "533bb94a8850ee3ccbe483106489399112b74c905342cb1792a797a0494e4459",
+            "decimals": 6,
+            "ticker": "INDY",
+            "description": "Indigo DAO Token Indigo is an decentralized synthetics protocol for on-chain price exposure to real-world and digital assets https://indigoprotocol.io",
+            "name": "Indigo DAO Token"
         }
     ]
 }
