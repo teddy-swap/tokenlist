@@ -155,6 +155,14 @@
             "ticker": "iETH",
             "description": "iETH Cardano native token that tracks the price of Ethereum https://indigoprotocol.io",
             "name": "iETH"
+        },
+        {
+            "policyId": "e52964af4fffdb54504859875b1827b60ba679074996156461143dc1",
+            "subject": "e52964af4fffdb54504859875b1827b60ba679074996156461143dc14f5054494d",
+            "decimals": 6,
+            "ticker": "OPTIM",
+            "description": "OPTIM https://optim.finance",
+            "name": "OPTIM"
         }
     ]
 }
