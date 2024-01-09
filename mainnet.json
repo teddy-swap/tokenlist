@@ -163,6 +163,14 @@
             "ticker": "OPTIM",
             "description": "OPTIM https://optim.finance",
             "name": "OPTIM"
+			},
+        {
+            "policyId": "354a6c0acd846b195768ead31c92693ad26d82ba013e7df5d9777081",
+            "subject": "354a6c0acd846b195768ead31c92693ad26d82ba013e7df5d9777081514149",
+            "decimals": 0,
+            "ticker": "QAI",
+            "description": "QuantumAI https://QuantumAI.Computer",
+            "name": "QuantumAI"
         }
     ]
 }
